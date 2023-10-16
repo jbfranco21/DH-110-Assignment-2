@@ -51,6 +51,9 @@ The study session page allows the used to set a timer in order to follow time ma
 # Information Architecture
 Diagram of information architecure can be found at [this link](https://www.figma.com/file/vIECxlx5fW1dsU9nlJs6GU/DH-110%3A-Information-Architecture-and-User-Journey?type=whiteboard&node-id=0%3A1&t=FP45YPhi6fW4Ro7U-1).
 
+<img width="1243" alt="Screen Shot 2023-10-16 at 8 48 32 AM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/cddea80d-b2d8-445a-8410-4a9c1804dd81">
+
+
 # User Personas
 User personas can be found at [this link](https://www.figma.com/file/GPJxxETwDxRtRMI2JHvb2R/User-Persona?type=design&node-id=0%3A1&mode=design&t=Ts6mkRI3PBu8y4LO-1).
 Below is a general idea of our user personas:
@@ -75,4 +78,7 @@ User journey can be found at [this link](https://www.figma.com/file/vIECxlx5fW1d
 - Searches for a time management tool, faced with too many options to choose from
 - Tries to narrow down search by specifying a more all in one platform
 - **Goal:** having a time management tool that allows students to better organize their tasks while also boosting productivity (higher accomplishment rate)
+
+  <img width="728" alt="Screen Shot 2023-10-16 at 8 51 08 AM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/d326a451-af99-401e-9ed5-5f1a0b7ec3dd">
+
 
