@@ -27,8 +27,11 @@ The study session page allows the used to set a timer in order to follow time ma
 
 
 # Information Architecture
+Diagram of information architecure can be found at [this link](https://www.figma.com/file/vIECxlx5fW1dsU9nlJs6GU/DH-110%3A-Information-Architecture-and-User-Journey?type=whiteboard&node-id=0%3A1&t=FP45YPhi6fW4Ro7U-1).
 
 # User Personas
+User personas can be found at [this link](https://www.figma.com/file/GPJxxETwDxRtRMI2JHvb2R/User-Persona?type=design&node-id=0%3A1&mode=design&t=Ts6mkRI3PBu8y4LO-1).
 
 # User Journey
+User journey can be found at [this link](https://www.figma.com/file/vIECxlx5fW1dsU9nlJs6GU/DH-110%3A-Information-Architecture-and-User-Journey?type=whiteboard&node-id=0%3A1&t=FP45YPhi6fW4Ro7U-1).
 
