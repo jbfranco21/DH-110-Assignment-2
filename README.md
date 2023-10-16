@@ -12,6 +12,8 @@ Document all steps of the process. Publish your documentation using GitHub pages
 # Introduction
 This is our DH 110 documentation on our time management application. The goal of this application is to have a time management tool that allows students to better organize their tasks while also boosting productivity (higher accomplishment rate). By conducting interviews and data through a Google Form, we were able to get a glimpse of how students feel about their time management skills and needs and wants in a time management tool. Below is our iterative process that combines productivity with an aesthetic reward system.
 
+Group Members: Jessica Franco, Sophia, Lauren Lee, Sophia Gao
+
 Higher-quality images of our survey results, survey annotations, application overview, information architecture, and user flows can be found at this link: https://www.figma.com/file/vIECxlx5fW1dsU9nlJs6GU/DH-110%3A-Information-Architecture%2C-User-Journey%2C-and-Survey-Results%2FNotes?type=whiteboard&node-id=0%3A1&t=mUuU1VAUEaRCOOak-1 
 
 <img width="800" alt="Screen Shot 2023-10-15 at 5 42 01 PM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/c6a67d70-528f-43ba-9c8b-d5d9930e33fd">
