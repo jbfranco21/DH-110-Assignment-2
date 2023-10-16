@@ -38,14 +38,26 @@ Our time management tool features four main pages: home page, calendar, to do li
 ## Home Page
 The home page provides space that is pleasing to the eye of students and recreates a physical desktop. It displays various widgets that will take you to the different pages, and also a display for the prizes you earn while completing tasks. It is also the home of the main reward feature of this application: the mystery box. Here it displays the progress bar to opening it. 
 
+<img width="739" alt="Screen Shot 2023-10-16 at 9 01 45 AM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/f881d7ce-60d0-4c5d-8a94-c4cb9752414b">
+
+
 ## Calendar
 The calendar page allows the user to keep track of all events/assignments they have in a convenient matter. The main feature is the ability to add an event with the date, category, time, location, and any description. The user is also able to change the display from year, month, week, and day. In addition to creating events and changing the display of the calendar, the user can also create their own categories to organize different events/assignments.
+
+<img width="889" alt="Screen Shot 2023-10-16 at 9 02 32 AM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/203f4580-da38-4af2-b986-532bee0aad2c">
+
 
 ## To-Do List
 The To-Do list page creates a space to list out assignments and order them based on priority. Creating a task involves a title, description, due date, priority, and category. Once completed, the user can check it off and it will be displayed in the completed section. 
 
+<img width="886" alt="Screen Shot 2023-10-16 at 9 04 21 AM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/90c7e4c6-9e38-44e1-a41f-921b6e4a46fa">
+
+
 ## Study Session
 The study session page allows the used to set a timer in order to follow time management techniques. Features a settings button, restart button, and music widget. This page also displays the to do list. 
+
+<img width="875" alt="Screen Shot 2023-10-16 at 9 03 42 AM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/9d6da833-7626-4e13-9681-115e0e85657c">
+<img width="860" alt="Screen Shot 2023-10-16 at 9 04 01 AM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/b9b4b6cb-f50d-4cba-90f2-2803328ef231">
 
 
 # Information Architecture
