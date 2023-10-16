@@ -12,8 +12,19 @@ Document all steps of the process. Publish your documentation using GitHub pages
 # Introduction
 This is our DH 110 documentation on our time management application. The goal of this application is to have a time management tool that allows students to better organize their tasks while also boosting productivity (higher accomplishment rate). By conducting interviews and data through a Google Form, we were able to get a glimpse of how students feel about their time management skills and needs and wants in a time management tool. Below is our iterative process that combines productivity with an aesthetic reward system.
 
+<img width="566" alt="Screen Shot 2023-10-15 at 5 42 01 PM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/c6a67d70-528f-43ba-9c8b-d5d9930e33fd">
+
+
 # Application Functionality
 Our time management tool features four main pages: home page, calendar, to do list, and study session. Below we will list the functionality of each page. We made multiple iterations of how calendars are visualized, how assignments can be kept track of, and how gameifying the experience coul dlead to higher productivity. Lofi Mockups can be found at [this link](https://www.figma.com/file/z4diEp2ikh3coivU5Fnld7/DH-110%3A-Lofi-Mockups?type=design&node-id=0%3A1&mode=design&t=AsgbmDic8TUEgaCM-1).
+
+<img width="586" alt="Screen Shot 2023-10-15 at 5 25 25 PM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/49ebc845-faeb-4aa8-b374-d19c578bbbe0">
+<img width="609" alt="Screen Shot 2023-10-15 at 5 27 01 PM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/2f4dd489-e7b0-4d6f-aa15-a3413df0dc23">
+
+<img width="892" alt="Screen Shot 2023-10-15 at 5 26 50 PM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/dfd185f0-b34c-4aa0-a666-7e5f61000ef8">
+
+
+
 
 ## Home Page
 The home page provides space that is pleasing to the eye of students and recreates a physical desktop. It displays various widgets that will take you to the different pages, and also a display for the prizes you earn while completing tasks. It is also the home of the main reward feature of this application: the mystery box. Here it displays the progress bar to opening it. 
