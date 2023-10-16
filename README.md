@@ -22,6 +22,9 @@ The calendar page allows the user to keep track of all events/assignments they h
 ## To-Do List
 The To-Do list page creates a space to list out assignments and order them based on priority. Creating a task involves a title, description, due date, priority, and category. Once completed, the user can check it off and it will be displayed in the completed section. 
 
+## Study Session
+The study session page allows the used to set a timer in order to follow time management techniques. Features a settings button, restart button, and music widget. This page also displays the to do list. 
+
 
 # Information Architecture
 
