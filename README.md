@@ -16,14 +16,19 @@ This is our DH 110 documentation on our time management application. The goal of
 
 
 # Application Functionality
-Our time management tool features four main pages: home page, calendar, to do list, and study session. Below we will list the functionality of each page. We made multiple iterations of how calendars are visualized, how assignments can be kept track of, and how gameifying the experience coul dlead to higher productivity. Lofi Mockups can be found at [this link](https://www.figma.com/file/z4diEp2ikh3coivU5Fnld7/DH-110%3A-Lofi-Mockups?type=design&node-id=0%3A1&mode=design&t=AsgbmDic8TUEgaCM-1).
+Our time management tool features four main pages: home page, calendar, to do list, and study session. Below we will list the functionality of each page. We made multiple iterations of how calendars are visualized, how assignments can be kept track of, and how gameifying the experience coul dlead to higher productivity. Lowfi Mockups can be found at [this link](https://www.figma.com/file/z4diEp2ikh3coivU5Fnld7/DH-110%3A-Lofi-Mockups?type=design&node-id=0%3A1&mode=design&t=AsgbmDic8TUEgaCM-1).
 
 <img width="586" alt="Screen Shot 2023-10-15 at 5 25 25 PM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/49ebc845-faeb-4aa8-b374-d19c578bbbe0">
+
 <img width="609" alt="Screen Shot 2023-10-15 at 5 27 01 PM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/2f4dd489-e7b0-4d6f-aa15-a3413df0dc23">
 
 <img width="892" alt="Screen Shot 2023-10-15 at 5 26 50 PM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/dfd185f0-b34c-4aa0-a666-7e5f61000ef8">
 
+^Draft Mockups
 
+<img width="524" alt="Screen Shot 2023-10-15 at 5 27 19 PM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/dae17703-a62e-4961-8d63-ec67de5440d9">
+
+^Final Lowfi Mockups
 
 
 ## Home Page
