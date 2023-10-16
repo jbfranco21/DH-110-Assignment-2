@@ -14,7 +14,7 @@ This is our DH 110 documentation on our time management application. The goal of
 
 Higher-quality images of our survey results, survey annotations, application overview, information architecture, and user flows can be found at this link: https://www.figma.com/file/vIECxlx5fW1dsU9nlJs6GU/DH-110%3A-Information-Architecture%2C-User-Journey%2C-and-Survey-Results%2FNotes?type=whiteboard&node-id=0%3A1&t=mUuU1VAUEaRCOOak-1 
 
-<img width="566" alt="Screen Shot 2023-10-15 at 5 42 01 PM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/c6a67d70-528f-43ba-9c8b-d5d9930e33fd">
+<img width="800" alt="Screen Shot 2023-10-15 at 5 42 01 PM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/c6a67d70-528f-43ba-9c8b-d5d9930e33fd">
 
 
 # Application Functionality
@@ -28,7 +28,7 @@ Our time management tool features four main pages: home page, calendar, to do li
 
 ^First iteration of our lo-fi mockups, done individually before combining our ideas
 
-<img width="524" alt="Screen Shot 2023-10-15 at 5 27 19 PM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/dae17703-a62e-4961-8d63-ec67de5440d9">
+<img width="800" alt="Screen Shot 2023-10-15 at 5 27 19 PM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/dae17703-a62e-4961-8d63-ec67de5440d9">
 
 ^Final Lo-fi Mockups
 
