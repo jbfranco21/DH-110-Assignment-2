@@ -22,29 +22,30 @@ Higher-quality images of our survey results, survey annotations, application ove
 # Application Functionality
 Our time management tool features four main pages: home page, calendar, to do list, and study session. Below we will list the functionality of each page. We made multiple iterations of how calendars are visualized, how assignments can be kept track of, and how gameifying the experience coul dlead to higher productivity. Lo-fi Mockups can be found at [this link](https://www.figma.com/file/z4diEp2ikh3coivU5Fnld7/DH-110%3A-Lofi-Mockups?type=design&node-id=0%3A1&mode=design&t=AsgbmDic8TUEgaCM-1).
 
-<img width="700" alt="Screen Shot 2023-10-15 at 5 25 25 PM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/49ebc845-faeb-4aa8-b374-d19c578bbbe0">
-
 <img width="900" alt="Screen Shot 2023-10-15 at 5 27 01 PM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/2f4dd489-e7b0-4d6f-aa15-a3413df0dc23">
 
 <img width="900" alt="Screen Shot 2023-10-15 at 5 26 50 PM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/dfd185f0-b34c-4aa0-a666-7e5f61000ef8">
 
+<img width="661" alt="Screen Shot 2023-10-18 at 3 21 04 AM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/48f97f1e-1146-4797-bc56-b7c3b3e30829">
+
 ^First iteration of our lo-fi mockups, done individually before combining our ideas
 
-<img width="800" alt="Screen Shot 2023-10-15 at 5 27 19 PM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/dae17703-a62e-4961-8d63-ec67de5440d9">
+<img width="745" alt="Screen Shot 2023-10-18 at 3 20 02 AM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/778f0fb4-8a6f-49c8-bcba-465c9ccb26c4">
 
 ^Final Lo-fi Mockups
+
 
 
 ## Home Page
 The home page provides space that is pleasing to the eye of students and recreates a physical desktop. It displays various widgets that will take you to the different pages, and also a display for the prizes you earn while completing tasks. It is also the home of the main reward feature of this application: the mystery box. Here it displays the progress bar to opening it. 
 
-<img width="739" alt="Screen Shot 2023-10-16 at 9 01 45 AM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/f881d7ce-60d0-4c5d-8a94-c4cb9752414b">
+<img width="673" alt="Screen Shot 2023-10-18 at 3 19 27 AM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/863699a6-58dc-4ada-87b1-7fc33c80cb52">
 
 
 ## Calendar
 The calendar page allows the user to keep track of all events/assignments they have in a convenient matter. The main feature is the ability to add an event with the date, category, time, location, and any description. The user is also able to change the display from year, month, week, and day. In addition to creating events and changing the display of the calendar, the user can also create their own categories to organize different events/assignments.
 
-<img width="889" alt="Screen Shot 2023-10-16 at 9 02 32 AM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/203f4580-da38-4af2-b986-532bee0aad2c">
+<img width="834" alt="Screen Shot 2023-10-18 at 3 18 22 AM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/8ac71ac6-d88e-4d3a-a09f-bf7a7b7898d3">
 
 
 ## To-Do List
@@ -81,6 +82,8 @@ Below is a general idea of our user personas:
 - Frustrations: bad at time management
   - Using multiple time management tools at the same time for different needs
   - Difficulty prioritizing tasks
+
+<img width="654" alt="Screen Shot 2023-10-18 at 3 23 26 AM" src="https://github.com/jbfranco21/DH-110-Assignment-2/assets/72051869/ffa1ff36-1d50-4853-a88d-a12c44d4ba24">
 
 
 # User Journey
